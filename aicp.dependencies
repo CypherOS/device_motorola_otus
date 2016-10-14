@@ -15,6 +15,11 @@
     "branch":      "cm-14.0"
   },
   {
+   "repository": "CyanogenMod/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch":      "cm-14.0"
+  },
+  {
     "repository":  "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "cm-14.0"
