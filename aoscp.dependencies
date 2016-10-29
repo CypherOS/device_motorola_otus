@@ -18,7 +18,7 @@
     "branch":      "cm-14.0"
   },
   {
-   "repository":  "device_qcom_common",
+   "repository":  "android_device_qcom_common",
    "target_path": "device/qcom/common",
    "remote":      "cm",
    "branch":      "cm-14.0"
