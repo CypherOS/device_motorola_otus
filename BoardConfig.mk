@@ -20,7 +20,7 @@
 LOCAL_PATH := device/motorola/otus
 
 TARGET_KERNEL_SOURCE := kernel/motorola/msm8610
-TARGET_KERNEL_CONFIG := cm_otus_defconfig
+TARGET_KERNEL_CONFIG := aoscp_otus_defconfig
 
 # Storage & partiiton
 BOARD_BOOTIMAGE_PARTITION_SIZE := 10485760
