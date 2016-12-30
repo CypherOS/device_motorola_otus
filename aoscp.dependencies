@@ -8,13 +8,13 @@
   {
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "remote":      "tm",
-    "branch":      "cm-14.1"
+	"remote":      "aoscp",
+    "branch":      "n7.1"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
-    "remote":      "tm",
-    "branch":      "cm-14.1"
+    "remote":      "aoscp",
+    "branch":      "n7.1"
   }
 ]
