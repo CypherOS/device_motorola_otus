@@ -3,18 +3,18 @@
     "repository":  "device_motorola_msm8610-common",
     "target_path": "device/motorola/msm8610-common",
     "remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   },
   {
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
 	"remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   },
   {
     "repository":  "proprietary_vendor_qcom_binaries",
     "target_path": "vendor/qcom/binaries",
     "remote":      "aoscp",
-    "branch":      "n7.1"
+    "branch":      "nougat-mr1"
   }
 ]
